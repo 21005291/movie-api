@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.search-bar {
+  margin: 20px;
+}
+
+.search-bar input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.search-bar button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.movie-card {
+  margin: 10px;
+  text-align: center;
+}
+
+.movie-card img {
+  width: 200px;
+  height: auto;
+}
+
+.movie-detail {
+  padding: 20px;
+}
