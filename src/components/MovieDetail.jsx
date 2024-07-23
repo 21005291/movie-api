@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { useParams } from 'react-router-dom';
 
-const API_KEY = 'YOUR_OMDB_API_KEY'; // Replace with your OMDb API key
+const API_KEY = '90fbcb0e'; 
 const BASE_URL = 'http://www.omdbapi.com/';
 
 function MovieDetail() {
